@@ -1,5 +1,9 @@
 # Delivery fee Calculator
 
+## Made this calculator as pre-assignment for Wolt Internship application. Based on these specs 
+https://github.com/woltapp/engineering-summer-intern-2022
+
+
 ### 1. Install needed depencies by running `npm install`
 
 ### 2. Run the app by `npm start`
