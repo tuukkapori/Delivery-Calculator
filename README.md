@@ -1,6 +1,6 @@
 # Delivery fee Calculator
 
-## Made this calculator as pre-assignment for Wolt Internship application. Based on these specs 
+### Made this calculator as pre-assignment for Wolt Internship application. Based on these specs 
 https://github.com/woltapp/engineering-summer-intern-2022
 
 
